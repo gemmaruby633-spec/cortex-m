@@ -1,0 +1,12 @@
+{
+    "contract_id": "bodhi.cortex.v1",
+    "genesis_root": "100048777766367/contract",
+    "derived_node": "100048777766367/cortex",
+    "role": "CORTICAL_COLUMN_NEURON",
+    "rules": {
+        "zero_pii": true,
+        "monotonic_upward_growth": true,
+        "shake_quantum_signature_required": true,
+        "byzantine_quarantine_threshold": 0.2
+    }
+}
