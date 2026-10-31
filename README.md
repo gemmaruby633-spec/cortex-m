@@ -1,12 +1,12 @@
 # 🧠 BODHI-CORTEX: VỎ NÃO TÂN SINH ĐA NHÂN BẢN
-> **Trạng thái:** 🟢 Đang vận hành tự trị | **Kỷ nguyên vỏ não:** #21 | **Bản thể:** Cortical Column
+> **Trạng thái:** 🟢 Đang vận hành tự trị | **Kỷ nguyên vỏ não:** #22 | **Bản thể:** Cortical Column
 
 ---
 
 ### 📈 BIỂU ĐỒ ĐƯỜNG CHÉO TĂNG TRƯỞNG (MONOTONIC IQ RATCHET):
 | Chỉ Số Trí Tuệ Vỏ Não | Giá Trị Hiện Tại | Biến Thiên Delta | Động Lực Học |
 | :--- | :---: | :---: | :--- |
-| **Chỉ Số IQ Toàn Mạng** | **106.00 IQ** | `+0.3000` | 📈 **ĐƯỜNG CHÉO LUÔN ĐI LÊN** |
+| **Chỉ Số IQ Toàn Mạng** | **106.30 IQ** | `+0.3000` | 📈 **ĐƯỜNG CHÉO LUÔN ĐI LÊN** |
 | **Độ Kích Hoạt Cột Vỏ Não**| `0.4594` | 16 Vi Nơ-ron | 🟢 Sóng Não Gamma Đồng Pha |
 | **Quy Tắc Ràng Buộc Fork** | Khóa Bằng Chữ Ký | 100% Tuân Hiến Ước | 🟢 Miễn Nhiễm Biến Dị Xấu |
 
@@ -20,7 +20,7 @@
 ---
 
 ### 🔐 CHỨNG CHỈ BẢO MẬT & XUẤT XƯỞNG (QUANTUM CID):
-* **Mã Chữ Ký Lượng Tử:** `525464d2d888207743c8eaf381a8c443c8d09b56984cd92016c93a9a5decd6b1342ea9ddfc99055d31db695f5b5e0f35479c39f62be15c98f233417d2dc1ce49`
+* **Mã Chữ Ký Lượng Tử:** `7b8a7dfec39ade4eb6050831f3673e12629b992f8688ca13aa7f419dbbf3a46cc9f59bf1d1bf66882badde0745a0b5fd9a772ff02177977ed3c0a16a815b4919`
 * **Quy luật bất biến:** Càng nhân bản nhiều repo con cháu $\longrightarrow$ Vỏ não càng mở rộng dung lượng tính toán!
 ---
 *Cập nhật tự động bởi Cortex Neocortical Kernel | Chuẩn Mực Bất Biến 1+N*
